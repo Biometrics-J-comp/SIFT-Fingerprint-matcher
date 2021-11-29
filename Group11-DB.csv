@@ -1,27 +1,27 @@
-Employee ID,Name
-100,Mira Sanford
-101,Kayley Strickland
-102,Christina Frazier
-103,Derick Whitney
-104,Colin Fields
-105,Brenna Graham
-106,Mylie Espinoza
-107,Zaria Rivas
-108,Johnathon Gilbert
-109,Kennedy Bautista
-110,Reese Erickson
-111,Makai Mills
-112,Sarai Watson
-113,Edward Proctor
-114,Harmony Montes
-115,Blaze Cook
-116,Elvis Bowen
-117,Ava Pena
-118,Steven Cameron
-119,Brayan Brady
-120,Rosa Frazier
-121,Jordan Todd
-122,Zane Hurley
-123,Willow Rose
-124,Emerson Gross
-125,Scarlet Murray
+Personnel ID,Name,Regiment
+100,Mira Sanford,13th Infantry
+101,Kayley Strickland,13th Infantry
+102,Christina Frazier,13th Infantry
+103,Derick Whitney,13th Infantry
+104,Colin Fields,3rd Infantry
+105,Brenna Graham,13th Infantry
+106,Mylie Espinoza,13th Infantry
+107,Zaria Rivas,13th Infantry
+108,Johnathon Gilbert,13th Infantry
+109,Kennedy Bautista,6th Cavalry
+110,Reese Erickson,6th Cavalry
+111,Makai Mills,3rd Infantry
+112,Sarai Watson,3rd Infantry
+113,Edward Proctor,13th Infantry
+114,Harmony Montes,3rd Infantry
+115,Blaze Cook,13th Infantry
+116,Elvis Bowen,3rd Infantry
+117,Ava Pena,6th Cavalry
+118,Steven Cameron,13th Infantry
+119,Brayan Brady,3rd Infantry
+120,Rosa Frazier,13th Infantry
+121,Jordan Todd,13th Infantry
+122,Zane Hurley,3rd Infantry
+123,Willow Rose,6th Cavalry
+124,Emerson Gross,6th Cavalry
+125,Scarlet Murray,13th Infantry
