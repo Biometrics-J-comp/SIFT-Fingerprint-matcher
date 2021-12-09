@@ -1,1 +1,0 @@
-# SIFT-Fingerprint-matcher
